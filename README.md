@@ -52,8 +52,4 @@
 
 ![](https://komarev.com/ghpvc/?username=YudaKusumaID&color=00FF41&style=flat-square&label=visitors)
 
-```
-$ exit
-```
-
 </div>
