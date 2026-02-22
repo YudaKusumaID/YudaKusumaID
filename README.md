@@ -77,10 +77,10 @@ tools/
 ### `> ./scan_skills.sh --current`
 
 ```
-[SCAN]  Reverse Engineering        ████████████░░░░░░░░  60%  [ACTIVE]
-[SCAN]  Game Hacking               ██████████░░░░░░░░░░  50%  [ACTIVE]
-[SCAN]  Binary Exploitation        ██████░░░░░░░░░░░░░░  30%  [LEARNING]
-[SCAN]  Malware Analysis           ████░░░░░░░░░░░░░░░░  20%  [QUEUED]
+[SCAN]  Reverse Engineering    [############--------]  60%  [ACTIVE]
+[SCAN]  Game Hacking           [##########----------]  50%  [ACTIVE]
+[SCAN]  Binary Exploitation    [######--------------]  30%  [LEARNING]
+[SCAN]  Malware Analysis       [####----------------]  20%  [QUEUED]
 ```
 
 ```
