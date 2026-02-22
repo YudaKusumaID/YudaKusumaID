@@ -93,15 +93,18 @@ $ echo $MOTTO
 ### `> neofetch --stats`
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YudaKusumaID&show_icons=true&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41&hide_border=true" />
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YudaKusumaID&layout=compact&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=true" />
+</td>
+</tr>
+</table>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YudaKusumaID&show_icons=true&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudaKusumaID&layout=compact&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=YudaKusumaID&background=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
+<img width="55%" src="https://streak-stats.demolab.com/?user=YudaKusumaID&background=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
 
 </div>
 
@@ -123,9 +126,7 @@ instagram = https://instagram.com/yudakusumaid
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/yudakusumaid)
-&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=Instagram&logoColor=00FF41)](https://instagram.com/yudakusumaid)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=Instagram&logoColor=00FF41)](https://instagram.com/yuda._kusuma)
 
 </div>
 
