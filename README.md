@@ -6,15 +6,6 @@
     ██║   ╚██████╔╝██████╔╝██║  ██║    ██║  ██╗╚██████╔╝███████║╚██████╔╝██║ ╚═╝ ██║██║  ██║
     ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
 ```
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=%24+whoami+%E2%86%92+Building+things+%26+breaking+things+%E2%80%94+sometimes+both+at+once" alt="Typing SVG" />
-</a>
-
-</div>
-
 ---
 
 ### `> cat /etc/about_me`
