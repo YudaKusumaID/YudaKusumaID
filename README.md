@@ -1,55 +1,72 @@
 <div align="center">
-<p>
-  Software Developer from <b>Indonesia</b> 🇮🇩<br>
-  Currently exploring <b>Reverse Engineering</b> & <b>Game Hacking</b> 🔓
-</p>
-<br>
 
-<h3>⚡ Tech Stack</h3>
+# Yuda Kusuma
 
-<p>
-  <img src="https://img.shields.io/badge/C-00FF41?style=flat-square&logo=c&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/C++-00FF41?style=flat-square&logo=c%2B%2B&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/C%23-00FF41?style=flat-square&logo=csharp&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-00FF41?style=flat-square&logo=dotnet&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=node.js&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Express-00FF41?style=flat-square&logo=express&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/PostgreSQL-00FF41?style=flat-square&logo=postgresql&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/MySQL-00FF41?style=flat-square&logo=mysql&logoColor=00FF41&labelColor=0d1117&color=0d1117" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Systems+%26+networking+tools+in+Go;Windows-native+utilities+in+C+%26+C%23;Low-level+programming+enthusiast;Reverse+engineering+explorer" alt="Typing SVG" />
+</a>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p>
+  Software developer from <b>Indonesia</b> 🇮🇩<br>
+  I build networking tools, system utilities, and anything close to the metal.<br>
+  Currently exploring <b>reverse engineering</b> and <b>game internals</b>.
+</p>
+
+<a href="https://linkedin.com/in/yudakusumaid">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24"/>
+</a>&nbsp;
+<a href="https://instagram.com/yudakusumaid">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24"/>
+</a>
 
 <br><br>
+
+---
+
+<h3>🛠 Tech Stack</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<br>
+
+---
+
+<br>
 
 <h3>📊 Stats</h3>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YudaKusumaID&show_icons=true&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41&hide_border=true" />
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YudaKusumaID&show_icons=true&theme=github_dark&hide_border=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" />
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YudaKusumaID&layout=compact&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=true" />
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YudaKusumaID&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
 </td>
 </tr>
 </table>
 
-<img width="55%" src="https://streak-stats.demolab.com/?user=YudaKusumaID&background=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
+<img width="55%" src="https://streak-stats.demolab.com/?user=YudaKusumaID&theme=github-dark-blue&hide_border=true" />
 
 <br><br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YudaKusumaID&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=002b00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=YudaKusumaID&color=00FF41&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=YudaKusumaID&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
