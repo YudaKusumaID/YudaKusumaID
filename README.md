@@ -2,12 +2,6 @@
 
 # Yuda Kusuma
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Systems+%26+networking+tools+in+Go;Windows-native+utilities+in+C+%26+C%23;Low-level+programming+enthusiast;Reverse+engineering+explorer" alt="Typing SVG" />
-</a>
-
-<br>
-
 <p>
   Software developer from <b>Indonesia</b> 🇮🇩<br>
   I build networking tools, system utilities, and anything close to the metal.<br>
