@@ -3,15 +3,15 @@
 # Yuda Kusuma
 <br>
 <p>
-  Software developer from <b>Indonesia</b> 🇮🇩<br>
+  Software engineer from <b>Indonesia</b> 🇮🇩<br>
   I build networking tools, system utilities, and anything close to the metal.<br>
   Currently exploring <b>reverse engineering</b> and <b>game internals</b>.
 </p>
 
-<a href="https://linkedin.com/in/yudakusumaid">
+<a href="https://www.linkedin.com/in/yuda-kusuma-07869b308/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24"/>
 </a>&nbsp;
-<a href="https://instagram.com/yudakusumaid">
+<a href="https://www.instagram.com/yuda._kusuma/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24"/>
 </a>
 
