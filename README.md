@@ -21,12 +21,7 @@ mostly interested in understanding how things work beneath the abstraction.
 
 <br>
 
-<a href="https://www.linkedin.com/in/i-made-yuda-kusuma-07869b308/">
-  <img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=8b949e" height="22"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/yuda._kusuma/">
-  <img src="https://img.shields.io/badge/instagram-161b22?style=flat-square&logo=instagram&logoColor=8b949e" height="22"/>
-</a>
+<a href="https://www.linkedin.com/in/i-made-yuda-kusuma-07869b308/"><img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=8b949e" height="22"/></a>&nbsp;<a href="https://www.instagram.com/yuda._kusuma/"><img src="https://img.shields.io/badge/instagram-161b22?style=flat-square&logo=instagram&logoColor=8b949e" height="22"/></a>
 
 ---
 
