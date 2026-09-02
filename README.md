@@ -33,7 +33,6 @@ mostly interested in understanding how things work beneath the abstraction.
   <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=8b949e" />
   <img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=8b949e" />
   <img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=c%2B%2B&logoColor=8b949e" />
-  <img src="https://img.shields.io/badge/C%23-161b22?style=flat-square&logo=csharp&logoColor=8b949e" />
+  <img src="https://img.shields.io/badge/C%23-161b22?style=flat-square&logo=dotnet&logoColor=8b949e" />
 </p>
-
 </div>
