@@ -28,15 +28,11 @@ mostly interested in understanding how things work beneath the abstraction.
   <img src="https://img.shields.io/badge/instagram-161b22?style=flat-square&logo=instagram&logoColor=8b949e" height="22"/>
 </a>
 
-<br><br>
-
 ---
 
 <br>
 
 <sub>tools i tend to use</sub>
-
-<br><br>
 
 <p>
   <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=8b949e" />
